@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1036451506836",
+    "firebase_url": "https://flutter1tutorial-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flutter1tutorial",
+    "storage_bucket": "flutter1tutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036451506836:android:8b7060f468c9d8bc98a281",
+        "android_client_info": {
+          "package_name": "com.example.data"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036451506836-1berptqsmagihrhqt22av321bg422n5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBJYM9t08ah1FE9UQn1zdbv2S1NP4hUHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036451506836-1berptqsmagihrhqt22av321bg422n5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
